@@ -1,3 +1,3 @@
 # hello-world
 git first steps
-Going deeper through totorial
+Going deeper through tutorial

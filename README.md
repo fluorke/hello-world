@@ -1,3 +1,3 @@
 # hello-world
 git first steps
-Going deeper throught totorial
+Going deeper through totorial
